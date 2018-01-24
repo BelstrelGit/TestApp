@@ -2,6 +2,7 @@
 Using DAO pattern to connect to database with JDBC.Transform one .xml file to other using XSLT
 
 Ревью пректа показал следующее-
+
 Плюсы:
 + Работа с параметрами вынесена в отдельный класс, присутствует обработка вводимых значений, завершение исполнения в случае неверных данных.
 
